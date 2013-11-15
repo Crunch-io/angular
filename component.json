@@ -1,0 +1,17 @@
+{
+  "name": "angular",
+  "repo": "mnichols/angular",
+  "description": "ng",
+  "version": "1.1.5",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "mnichols/angular-mocks":"*"
+    },
+  "license": "MIT",
+  "main": "build/build.js",
+  "scripts": [
+    "angular-1.1.5/angular.js",
+    "angular-1.1.5/angular-sanitize.js"
+  ]
+}
