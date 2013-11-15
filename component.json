@@ -11,7 +11,6 @@
   "license": "MIT",
   "main": "build/build.js",
   "scripts": [
-    "angular-1.1.5/angular.js",
-    "angular-1.1.5/angular-sanitize.js"
+    "build/build.js"
   ]
 }
