@@ -1,1 +1,1 @@
-module.exports = require('angular')
+module.exports = require('./angular')
