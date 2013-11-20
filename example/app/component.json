@@ -1,0 +1,6 @@
+{
+    "name":"componentized"
+    ,"paths": ["../../../"]
+    ,"scripts": ["index.js"]
+    ,"local":["angular"]
+}
