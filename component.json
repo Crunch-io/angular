@@ -4,13 +4,10 @@
   "description": "ng",
   "version": "1.1.5",
   "keywords": [],
-  "dependencies": {},
-  "development": {
-    "mnichols/angular-mocks":"*"
-    },
   "license": "MIT",
-  "main": "build/build.js",
+  "main": "index.js",
   "scripts": [
-    "build/build.js"
+    "index.js",
+    "angular.js"
   ]
 }
