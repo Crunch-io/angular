@@ -5,8 +5,5 @@
   "version": "1.1.5",
   "keywords": [],
   "license": "MIT",
-  "scripts":["index.js"],
-  "dependencies": {
-  }
-
+  "scripts":["index.js"]
 }
