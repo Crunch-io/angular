@@ -1,7 +1,6 @@
 
 module.exports.start = function(){
     'use strict';
-    console.log('angular on window',window.angular);
     var ng = require('angular');
 
     var mod = ng.module('componentized',['ngSanitize']);

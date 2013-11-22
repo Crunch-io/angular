@@ -1,6 +1,11 @@
 {
     "name":"componentized"
-    ,"paths": ["../../../"]
+    ,"paths": [
+        "../../"
+        ,"../../components"
+    ]
     ,"scripts": ["index.js"]
-    ,"local":["angular"]
+    ,"dependencies": {
+        "Crunch-io/angular":"*"
+    }
 }

@@ -7,7 +7,6 @@
   "license": "MIT",
   "scripts":["index.js"],
   "dependencies": {
-      "component/jquery":"*"
   }
 
 }
