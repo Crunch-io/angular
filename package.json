@@ -1,9 +1,21 @@
 {
   "name": "angular",
-  "repo": "Crunch-io/angular",
+  "version": "0.0.0",
   "description": "ng",
-  "version": "1.1.5",
-  "keywords": [],
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mnichols/angular"
+  },
+  "author": "",
   "license": "MIT",
-  "files":["index.js"]
+  "bugs": {
+    "url": "https://github.com/mnichols/angular/issues"
+  }
 }
